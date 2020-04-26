@@ -1,6 +1,6 @@
-# portfolio
+# Portfolio
 
-Each folder in the repository has images and extended documentation on each individual project in the portfolio.
+Documentation for past projects and work.
 
 
 
